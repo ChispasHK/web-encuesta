@@ -1,0 +1,97 @@
+/*color del fons*/
+body{
+    background-color: #F2F2F2 !important;
+}
+/*color del linies tipus movil*/
+.icon-bar{
+    background-color: #254958 !important;
+    margin: 30%;
+}
+
+/*modificar mida lletra h1*/
+h1{ 
+    font-size: 40pt;
+}
+
+/*lletras malluscaula ES CAT EN i color*/
+.idioma{
+    text-transform: uppercase;
+    color: #254958 !important;
+}
+
+/*color del h1*/
+#box-conexion h1{
+    color: #254958 !important;
+}
+
+/*margin text + boton*/
+#box-conexion{
+    padding: 2.5%;
+}
+
+/*color boton + lletra blau*/
+#boton-azul{
+    background-color: #254958;
+    color: #F2F2F2;
+    text-transform: uppercase;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 10px 50px 10px 50px;
+}
+
+/*color boton + lletra blau*/
+#boton-gris{
+    border: 1px solid #254958 ;
+    background-color: #F2F2F2 ;
+    color: #254958;
+    text-transform: uppercase;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 10px 33px 10px 33px;
+}
+
+/*margin per centrar el margin*/
+#box-todo{
+   margin: 2%;
+   color: #254958 !important;
+}
+
+/*pading imatge*/
+#draw-imagen{
+    padding: 5%;
+}
+
+/*mover todo form a la derecha */
+.radio{
+    padding: 0% 0% 2.5% 5% ;
+}
+
+/*mover radio a la derecha*/
+.espacio-forms-box{
+    margin : 0% 0% 0% 5% ;
+}
+
+#draw-imagen-2{
+    padding: 5% 15% 0% 0%;
+}
+
+/*modificar mida lletra p
+p{ 
+    font-size: 15pt;
+}*/
+
+/*color del botto del forms*/
+#boton-enviar{
+    background-color: #254958;
+    color: #F2F2F2;
+    text-transform: uppercase;
+    border-radius: 50px;
+    margin: 10px 10px 10px 30px;
+    padding: 10px 50px 10px 50px;
+    border: none;
+}
+
+/**/
+form{
+    border: 0% 10% 10% 0%;
+}
